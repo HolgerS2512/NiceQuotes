@@ -6,14 +6,14 @@ NiceQuotes is a small app written in JavaScript using the Expo framework. It all
 
 ## Table of Contents
 
-- [NiceQuotes](#nicequotes)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Technical Details](#technical-details)
-  - [Contribution](#contribution)
-  - [License](#license)
+[NiceQuotes](#nicequotes)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technical Details](#technical-details)
+- [Contribution](#contribution)
+- [License](#license)
 
 ## Installation
 
